@@ -1,0 +1,145 @@
+[33mcommit 6760e49bacc228c4d73ed8db4054a55756b324e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Mon Apr 6 08:24:18 2020 -0600
+
+    Update newFileAfterFork.txt
+
+[33mcommit 05d9e8520c5f0c10d0a16a3cc0bd884eeb09b4fd[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Mon Apr 6 08:23:25 2020 -0600
+
+    Update newFileAfterFork.txt
+
+[33mcommit 5569df238f7e627cf3c990137e737804e298ed32[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Mon Apr 6 08:16:07 2020 -0600
+
+    Update newFileAfterFork.txt
+
+[33mcommit 841ca8f663afe09c793f132952bcce47cdb0b3ef[m
+Author: DiscoStu00B <63245413+DiscoStu00B@users.noreply.github.com>
+Date:   Mon Apr 6 08:12:27 2020 -0600
+
+    Create newFileAfterFork.txt (#4)
+
+[33mcommit 3868f3be0597fc94d290b2c1ec693a1c565f4fa4[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 15:36:04 2020 -0600
+
+    Update instructions.txt
+
+[33mcommit 49470d13fd39a7e9c1d14b311d10e613717b93ee[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 15:32:57 2020 -0600
+
+    Create instructions2.txt
+
+[33mcommit 47a644c1c05437d86ede757c9d011c694c360427[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 15:32:20 2020 -0600
+
+    Added one more line
+
+[33mcommit 16000ac3915b15ef2f6b1fcd2b5a2d2a5f9758c6[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 15:21:18 2020 -0600
+
+    commiting change to index
+
+[33mcommit 9f8bea328f331e9f543e127eef1a4e25a078581b[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 15:05:20 2020 -0600
+
+    Update README.md (#2)
+
+[33mcommit aa28532f66d662ca9638f3858f3a415adcd5e7d9[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 11:48:30 2020 -0600
+
+    new doc 2 added
+
+[33mcommit 4c83bf224e56eb9e2938a480f810e96182d40f2b[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Fri Apr 3 11:41:56 2020 -0600
+
+    new file
+
+[33mcommit 1156778882dfdef2171e2a255031c4bd667063f6[m
+Merge: 698e9c8 aebb967
+Author: pavel <pav77@hotmail.com>
+Date:   Tue Dec 10 19:44:39 2019 -0700
+
+    Pulled master GitHub into local repo
+
+[33mcommit 698e9c89866a6381b5b972546921083d60eaa778[m
+Author: pavel <pav77@hotmail.com>
+Date:   Tue Dec 10 19:44:15 2019 -0700
+
+    committing my new local file
+
+[33mcommit aebb967243e5bec173eeb3142cccec88f27b6e26[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 19:43:13 2019 -0700
+
+    Commit message
+    
+    extended description
+
+[33mcommit 809befcf30aa1a27d1d2d2c3bb672565eed3ca19[m
+Merge: 9136892 80b1ea0
+Author: pavel <pav77@hotmail.com>
+Date:   Tue Dec 10 19:35:24 2019 -0700
+
+    Merge branch 'master' of github.com:DiscoStu00/fuzzy-doodle
+
+[33mcommit 91368920b46bb376c216145d135335fcd625bb8e[m
+Author: pavel <pav77@hotmail.com>
+Date:   Tue Dec 10 19:34:18 2019 -0700
+
+    asdf
+
+[33mcommit 80b1ea0817c6c39cb7ee49865dd6f25285175fef[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 19:33:35 2019 -0700
+
+    updated instructions
+
+[33mcommit 4d97435c3caef8c20ce21c03646f61a87c6ffb89[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 19:30:12 2019 -0700
+
+    New instrution file
+    
+    This is needed for new devs
+
+[33mcommit 7f8a7043a6faa0a663c322028750acbb512bdf51[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 19:29:33 2019 -0700
+
+    Simulating remote contributer
+
+[33mcommit 2fddea98ad755388ced9751827915ead173ad006[m
+Author: pavel <pav77@hotmail.com>
+Date:   Tue Dec 10 19:25:03 2019 -0700
+
+    added new website files
+
+[33mcommit f1a8e0f0d9c5b19317d95296862dca1d379b3ef7[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 19:12:34 2019 -0700
+
+    Create CONTRIBUTING.md
+
+[33mcommit ca27c72b4b304aad117a51b9c0cc0df96ffffa9b[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 19:11:07 2019 -0700
+
+    Created README
+    
+    This is extended description
+
+[33mcommit d5e4e7cc82ee082d2e75126ae9fe0d3d109686ab[m
+Author: DiscoStu00 <pav77@hotmail.com>
+Date:   Tue Dec 10 18:25:34 2019 -0700
+
+    Initial commit
